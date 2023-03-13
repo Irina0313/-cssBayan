@@ -226,7 +226,7 @@ body {
       font-size: calc(1rem + 2vw);
    }
    .container {
-      max-width: 980px;
+      max-width: 62rem;
       border: 0.6vw solid var(--blue-color);
       box-shadow: 1.2vw 1.2vw 1.5vw var(--gray-color);
    }
